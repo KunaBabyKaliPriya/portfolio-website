@@ -86,7 +86,7 @@ export default function Hero() {
           <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full p-[3px] bg-grad-primary animate-float shadow-glow">
             <div className="w-full h-full rounded-full bg-bg2 flex items-center justify-center overflow-hidden">
               <img
-                  src="/Phttps://github.com/KunaBabyKaliPriya/portfolio-website.gitrofile.png"
+                  src="Profile.png"
                   alt="Priya"
                   className="w-full h-full object-cover rounded-full"
               />
